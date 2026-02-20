@@ -1,0 +1,9 @@
+{
+    "validSearch": {
+        "employeeName": "John",
+        "jobTitle": "QA Engineer"
+    },
+    "invalidSearch": {
+        "employeeName": "RandomTest123"
+    }
+}
